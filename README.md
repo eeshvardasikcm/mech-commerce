@@ -17,3 +17,9 @@ creating machines to do the work for humanity.
 It turns out that doing work as an individual
 instead of creating an automated process to do that work,
 is the best form of practice of yoga.
+
+## Simple 3D graphics
+
+- Textures on spheres and cubes
+- Spheres make up the planet surface
+- Cubes make up the mechs 
