@@ -15,5 +15,5 @@ a utopian failure of a yoga system based from
 creating machines to do the work for humanity.
 
 It turns out that doing work as an individual
-and not creating an automated process to do that work,
+instead of creating an automated process to do that work,
 is the best form of practice of yoga.
