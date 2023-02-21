@@ -44,12 +44,12 @@ automated movement programming.
 ## macro style programming
 
 same as with app and language I'm developing,
-this Mecca game allows the user enter 
+this Mecha game allows the user enter 
 small amounts of information,
 and that information is then
 used to expand into boilerplate code.
 
-### The Mecca's are programmed to using custom language
+### The Mechs are programmed to using custom language
 
 the custom language that the mechas are programmed in
 is the same language that I am creating.
