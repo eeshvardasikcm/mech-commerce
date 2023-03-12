@@ -18,6 +18,18 @@ It turns out that doing work as an individual
 instead of creating an automated process to do that work,
 is the best form of practice of yoga.
 
+### Alternate storyline continues in ayurproject-kubernetes
+
+mech commerce repository was created as a prototype game. Simply by advancing
+the theoretical implementation of mech commerce, and the practical
+implementation of AyurProject in the Unreal Engine; mech commerce is coming
+to a close and the mech commerce repository will be archived.
+
+What was mech commerce will continue to exist as the baseline theory behind
+ayurproject-kubernetes, a new repository of mine that will have a public and
+open source face to it here on my eeshvardasikcm GitHub. The actual
+ayurproject-kubernetes implementation and design remain private.
+
 ## Simple 3D graphics
 
 - Textures on spheres and cubes
